@@ -1,0 +1,18 @@
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\C# Week 1.exe
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\C# Week 1.deps.json
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\C# Week 1.runtimeconfig.json
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\C# Week 1.dll
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\C# Week 1.pdb
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.AssemblyInfoInputs.cache
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.AssemblyInfo.cs
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.csproj.CoreCompileInputs.cache
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.dll
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\refint\C# Week 1.dll
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.pdb
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.genruntimeconfig.cache
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\ref\C# Week 1.dll
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\ClassLibrary1.dll
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\bin\Debug\net8.0\ClassLibrary1.pdb
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.csproj.AssemblyReference.cache
+F:\Self Study\IEEE\Tech teams\Actual work\Season 2\C# Week 1\C# Week 1\obj\Debug\net8.0\C# Week 1.csproj.Up2Date

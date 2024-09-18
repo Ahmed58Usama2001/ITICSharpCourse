@@ -1,0 +1,42 @@
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\bin\Debug\net6.0\Delegates.exe
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\bin\Debug\net6.0\Delegates.deps.json
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\bin\Debug\net6.0\Delegates.dll
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\bin\Debug\net6.0\Delegates.pdb
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.dll
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.pdb
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\1. CSharp\Delegates\obj\Debug\net6.0\ref\Delegates.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\bin\Debug\net6.0\Delegates.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\bin\Debug\net6.0\Delegates.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\bin\Debug\net6.0\Delegates.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\bin\Debug\net6.0\Delegates.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Delegates\obj\Debug\net6.0\ref\Delegates.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\bin\Debug\net6.0\Delegates.exe
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\bin\Debug\net6.0\Delegates.deps.json
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\bin\Debug\net6.0\Delegates.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\bin\Debug\net6.0\Delegates.pdb
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.pdb
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\ITI C#\My Work\MetigatorCSharpCourse-main\Delegates\obj\Debug\net6.0\ref\Delegates.dll

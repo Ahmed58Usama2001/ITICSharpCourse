@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\bin\Debug\net8.0\C#Week5.exe
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\bin\Debug\net8.0\C#Week5.deps.json
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\bin\Debug\net8.0\C#Week5.runtimeconfig.json
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\bin\Debug\net8.0\C#Week5.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\bin\Debug\net8.0\C#Week5.pdb
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\refint\C#Week5.dll
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.pdb
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\C#Week5.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\ITI C#\My Work\C#Week5\C#Week5\obj\Debug\net8.0\ref\C#Week5.dll
